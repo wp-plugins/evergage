@@ -7,11 +7,13 @@ Stable tag: 1.0.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Evergage helps you engage and communicate with your users in real-time and in your site.
+Evergage for Wordpress provides a seamless way to integrate Evergage’s cloud-based personalization platform with Wordpress install(s).
 
 == Description ==
 
-Evergage helps you engage and communicate with your visitors in real-time and in your site. Segment your users by content viewed, track the performance of your personalization campaigns and deliver targeted content recommendations.
+Evergage’s [cloud-based platform](http://www.evergage.com) empowers marketers to increase engagement and conversions of website visitors and users through real-time web personalization based on deep behavioral analytics.
+
+Evergage for Wordpress creates a nearly effortless integration between your WordPress install(s) and the Evergage Platform! Once the plugin is setup, your Wordpress install will be tightly integrated with both the [Evergage Platform](http://www.evergage.com/products/platform/) and [Evergage Promote](http://www.evergage.com/products/promote/), enabling you to track user behavior and activities as well as deliver personalized experiences to your web visitors.
 
 
 == Installation ==
@@ -51,11 +53,11 @@ This section describes how to install the plugin and get it working.
 * Initial release
 
 
-== Frequently Asked Questions ==
-
-
-
 == Screenshots ==
 
+1. **Plugin configuration screen** - Just enter your account and dataset to get started.
+2. **Dashboard reports** - Get a quick view of your top items and campaigns.
+3. **Item reports** - Report on activity against each article, blog and category on your site.
+4. **Campaign reports** - See how each campaign is doing now and filter the results by time and user segment.
 
 == Upgrade Notice ==
